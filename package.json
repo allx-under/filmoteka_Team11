@@ -2,10 +2,10 @@
   "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://valerie-german.github.io/filmoteka-teamProject/",
+  "homepage": "https://allx-under.github.io/filmoteka_Team11/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka-teamProject/"
+    "build": "parcel build src/*.html --public-url /filmoteka_Team11/"
   },
   "repository": {
     "type": "git",
